@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">AndroidSamuelLJ</string>
+    <string name="aboutttl1">Early Life</string>
+    <string name="abouttxt1">Samuel L. Jackson was born in Washington, D.C., to Elizabeth (Montgomery) and Roy Henry Jackson. He was raised by his mother, a factory worker.</string>
+    <string name="aboutttl2">Path to Acting</string>
+    <string name="abouttxt2">Jackson was active in the black student movement. In the seventies, he joined the Negro Ensemble Company (together with Morgan Freeman). In the eighties, he became well known after three movies made by Spike Lee - Do the Right Thing (1989), Mo\' Better Blues (1990) and Jungle Fever (1991). Going from character player to leading man, his performance in Pulp Fiction (1994) gave him an Oscar nomination for his character Jules Winnfield. Samuel usually played bad guys and drug addicts before becoming an action hero, co-starring with Bruce Willis in Die Hard: With a Vengeance (1995) and Geena Davis in The Long Kiss Goodnight (1996).</string>
+    <string name="moviettl1">Iconic movies</string>
+    <string name="movie1">Pulp Fiction</string>
+    <string name="movie2">Django Unchained</string>
+    <string name="movie3">Captain America: The Winter Soldier</string>
+    <string name="movie4">The Hateful Eight</string>
+    <string name="quotettl">Quotes</string>
+    <string name="quoe2">\"Want to know what the \'L.\' in Samuel L. Jackson means? None of your f***ing business.\"</string>
+    <string name="quote1">\"If you have an opportunity to use your voice you should use it.\"</string>
+    <string name="auth1">Twitter</string>
 </resources>
