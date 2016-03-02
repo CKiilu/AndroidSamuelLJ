@@ -13,4 +13,8 @@
     <string name="quoe2">\"Want to know what the \'L.\' in Samuel L. Jackson means? None of your f***ing business.\"</string>
     <string name="quote1">\"If you have an opportunity to use your voice you should use it.\"</string>
     <string name="auth1">Twitter</string>
+    <string name="abt">about</string>
+    <string name="mov">movies</string>
+    <string name="qts">quotes</string>
+    <string name="desc">Image of SLJ</string>
 </resources>
