@@ -18,8 +18,8 @@ public class Main extends AppCompatActivity {
         Button b3 = (Button) findViewById(R.id.button3);
 
         Button[] button = {b1,b2,b3};
-        for(int x = 0; x < button.length; x++) {
-            button[x].setOnClickListener(new View.OnClickListener() {
+        for (Button aButton : button) {
+            aButton.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
                     switch (v.getId()) {
